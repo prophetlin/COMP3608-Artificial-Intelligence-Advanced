@@ -1,0 +1,1377 @@
+0
+['rryyrry' '.rryry.' '..y.r..' '..y....' '.......' '.......']
+False
+0
+Child 0
+['rryyrry' 'yrryry.' '..y.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' 'yrryry.' 'r.y.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['rryyrry' 'yrryry.' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['rryyrry' 'yrryry.' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['rryyrry' 'yrryry.' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['rryyrry' 'yrryry.' '..y.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['rryyrry' 'yrryry.' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['rryyrry' 'yrryryr' '..y.r..' '..y....' '.......' '.......']
+False
+
+Child 1
+['rryyrry' '.rryry.' '.yy.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' 'rrryry.' '.yy.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['rryyrry' '.rryry.' '.yy.r..' '.ry....' '.......' '.......']
+False
+
+Child of child2
+['rryyrry' '.rryry.' '.yy.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['rryyrry' '.rryry.' '.yyrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['rryyrry' '.rryry.' '.yy.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['rryyrry' '.rryry.' '.yy.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['rryyrry' '.rryryr' '.yy.r..' '..y....' '.......' '.......']
+False
+
+Child 2
+['rryyrry' '.rryry.' '..y.r..' '..y....' '..y....' '.......']
+False
+
+Child of child0
+['rryyrry' 'rrryry.' '..y.r..' '..y....' '..y....' '.......']
+False
+
+Child of child1
+['rryyrry' '.rryry.' '.ry.r..' '..y....' '..y....' '.......']
+False
+
+Child of child2
+['rryyrry' '.rryry.' '..y.r..' '..y....' '..y....' '..r....']
+False
+
+Child of child3
+['rryyrry' '.rryry.' '..yrr..' '..y....' '..y....' '.......']
+False
+
+Child of child4
+['rryyrry' '.rryry.' '..y.r..' '..y.r..' '..y....' '.......']
+True
+
+Child of child5
+['rryyrry' '.rryry.' '..y.rr.' '..y....' '..y....' '.......']
+False
+
+Child of child6
+['rryyrry' '.rryryr' '..y.r..' '..y....' '..y....' '.......']
+False
+
+Child 3
+['rryyrry' '.rryry.' '..yyr..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' 'rrryry.' '..yyr..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['rryyrry' '.rryry.' '.ryyr..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['rryyrry' '.rryry.' '..yyr..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['rryyrry' '.rryry.' '..yyr..' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['rryyrry' '.rryry.' '..yyr..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['rryyrry' '.rryry.' '..yyrr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['rryyrry' '.rryryr' '..yyr..' '..y....' '.......' '.......']
+False
+
+Child 4
+['rryyrry' '.rryry.' '..y.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' 'rrryry.' '..y.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child1
+['rryyrry' '.rryry.' '.ry.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child2
+['rryyrry' '.rryry.' '..y.r..' '..y.y..' '..r....' '.......']
+False
+
+Child of child3
+['rryyrry' '.rryry.' '..yrr..' '..y.y..' '.......' '.......']
+False
+
+Child of child4
+['rryyrry' '.rryry.' '..y.r..' '..y.y..' '....r..' '.......']
+False
+
+Child of child5
+['rryyrry' '.rryry.' '..y.rr.' '..y.y..' '.......' '.......']
+False
+
+Child of child6
+['rryyrry' '.rryryr' '..y.r..' '..y.y..' '.......' '.......']
+False
+
+Child 5
+['rryyrry' '.rryry.' '..y.ry.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' 'rrryry.' '..y.ry.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['rryyrry' '.rryry.' '.ry.ry.' '..y....' '.......' '.......']
+False
+
+Child of child2
+['rryyrry' '.rryry.' '..y.ry.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['rryyrry' '.rryry.' '..yrry.' '..y....' '.......' '.......']
+False
+
+Child of child4
+['rryyrry' '.rryry.' '..y.ry.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['rryyrry' '.rryry.' '..y.ry.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['rryyrry' '.rryryr' '..y.ry.' '..y....' '.......' '.......']
+False
+
+Child 6
+['rryyrry' '.rryryy' '..y.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' 'rrryryy' '..y.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['rryyrry' '.rryryy' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['rryyrry' '.rryryy' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['rryyrry' '.rryryy' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['rryyrry' '.rryryy' '..y.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['rryyrry' '.rryryy' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['rryyrry' '.rryryy' '..y.r.r' '..y....' '.......' '.......']
+False
+
+
+1
+['.ryyrry' '.rryry.' '.ry.r..' '..y....' '.......' '.......']
+False
+0
+Child 0
+['yryyrry' '.rryry.' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['yryyrry' 'rrryry.' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['yryyrry' '.rryry.' '.ry.r..' '.ry....' '.......' '.......']
+True
+
+Child of child2
+['yryyrry' '.rryry.' '.ry.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['yryyrry' '.rryry.' '.ryrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['yryyrry' '.rryry.' '.ry.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['yryyrry' '.rryry.' '.ry.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['yryyrry' '.rryryr' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child 1
+['.ryyrry' '.rryry.' '.ry.r..' '.yy....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.ry.r..' '.yy....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.r..' '.yy....' '.r.....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '.ry.r..' '.yy....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.ryrr..' '.yy....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.ry.r..' '.yy.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.ry.rr.' '.yy....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.ry.r..' '.yy....' '.......' '.......']
+False
+
+Child 2
+['.ryyrry' '.rryry.' '.ry.r..' '..y....' '..y....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.ry.r..' '..y....' '..y....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.r..' '.ry....' '..y....' '.......']
+True
+
+Child of child2
+['.ryyrry' '.rryry.' '.ry.r..' '..y....' '..y....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.ryrr..' '..y....' '..y....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.ry.r..' '..y.r..' '..y....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.ry.rr.' '..y....' '..y....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.ry.r..' '..y....' '..y....' '.......']
+False
+
+Child 3
+['.ryyrry' '.rryry.' '.ryyr..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.ryyr..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryyr..' '.ry....' '.......' '.......']
+True
+
+Child of child2
+['.ryyrry' '.rryry.' '.ryyr..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.ryyr..' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.ryyr..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.ryyrr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.ryyr..' '..y....' '.......' '.......']
+False
+
+Child 4
+['.ryyrry' '.rryry.' '.ry.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.ry.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.r..' '.ry.y..' '.......' '.......']
+True
+
+Child of child2
+['.ryyrry' '.rryry.' '.ry.r..' '..y.y..' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.ryrr..' '..y.y..' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.ry.r..' '..y.y..' '....r..' '.......']
+False
+
+Child of child5
+['.ryyrry' '.rryry.' '.ry.rr.' '..y.y..' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.ry.r..' '..y.y..' '.......' '.......']
+False
+
+Child 5
+['.ryyrry' '.rryry.' '.ry.ry.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.ry.ry.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.ry.' '.ry....' '.......' '.......']
+True
+
+Child of child2
+['.ryyrry' '.rryry.' '.ry.ry.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.ryrry.' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.ry.ry.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.ry.ry.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.ry.ry.' '..y....' '.......' '.......']
+False
+
+Child 6
+['.ryyrry' '.rryryy' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryy' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryy' '.ry.r..' '.ry....' '.......' '.......']
+True
+
+Child of child2
+['.ryyrry' '.rryryy' '.ry.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryy' '.ryrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryy' '.ry.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryy' '.ry.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryy' '.ry.r.r' '..y....' '.......' '.......']
+False
+
+
+2
+['.ryyrry' '.rryry.' '..y.r..' '..y....' '..r....' '.......']
+False
+0
+Child 0
+['yryyrry' '.rryry.' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child0
+['yryyrry' 'rrryry.' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child1
+['yryyrry' '.rryry.' '.ry.r..' '..y....' '..r....' '.......']
+False
+
+Child of child2
+['yryyrry' '.rryry.' '..y.r..' '..y....' '..r....' '..r....']
+False
+
+Child of child3
+['yryyrry' '.rryry.' '..yrr..' '..y....' '..r....' '.......']
+False
+
+Child of child4
+['yryyrry' '.rryry.' '..y.r..' '..y.r..' '..r....' '.......']
+True
+
+Child of child5
+['yryyrry' '.rryry.' '..y.rr.' '..y....' '..r....' '.......']
+False
+
+Child of child6
+['yryyrry' '.rryryr' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child 1
+['.ryyrry' '.rryry.' '.yy.r..' '..y....' '..r....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.yy.r..' '..y....' '..r....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.yy.r..' '.ry....' '..r....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '.yy.r..' '..y....' '..r....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.yyrr..' '..y....' '..r....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.yy.r..' '..y.r..' '..r....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.yy.rr.' '..y....' '..r....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.yy.r..' '..y....' '..r....' '.......']
+False
+
+Child 2
+['.ryyrry' '.rryry.' '..y.r..' '..y....' '..r....' '..y....']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..y.r..' '..y....' '..r....' '..y....']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.r..' '..y....' '..r....' '..y....']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yrr..' '..y....' '..r....' '..y....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..y.r..' '..y.r..' '..r....' '..y....']
+True
+
+Child of child4
+['.ryyrry' '.rryry.' '..y.rr.' '..y....' '..r....' '..y....']
+False
+
+Child of child5
+['.ryyrry' '.rryryr' '..y.r..' '..y....' '..r....' '..y....']
+False
+
+Child 3
+['.ryyrry' '.rryry.' '..yyr..' '..y....' '..r....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..yyr..' '..y....' '..r....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryyr..' '..y....' '..r....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yyr..' '..y....' '..r....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yyr..' '..yr...' '..r....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..yyr..' '..y.r..' '..r....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..yyrr.' '..y....' '..r....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yyr..' '..y....' '..r....' '.......']
+False
+
+Child 4
+['.ryyrry' '.rryry.' '..y.r..' '..y.y..' '..r....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..y.r..' '..y.y..' '..r....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.r..' '..y.y..' '..r....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..y.r..' '..y.y..' '..r....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrr..' '..y.y..' '..r....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..y.r..' '..y.y..' '..r.r..' '.......']
+False
+
+Child of child5
+['.ryyrry' '.rryry.' '..y.rr.' '..y.y..' '..r....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.r..' '..y.y..' '..r....' '.......']
+False
+
+Child 5
+['.ryyrry' '.rryry.' '..y.ry.' '..y....' '..r....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..y.ry.' '..y....' '..r....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.ry.' '..y....' '..r....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..y.ry.' '..y....' '..r....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrry.' '..y....' '..r....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..y.ry.' '..y.r..' '..r....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..y.ry.' '..y..r.' '..r....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.ry.' '..y....' '..r....' '.......']
+False
+
+Child 6
+['.ryyrry' '.rryryy' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryy' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryy' '.ry.r..' '..y....' '..r....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryy' '..y.r..' '..y....' '..r....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryryy' '..yrr..' '..y....' '..r....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryy' '..y.r..' '..y.r..' '..r....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryy' '..y.rr.' '..y....' '..r....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryy' '..y.r.r' '..y....' '..r....' '.......']
+False
+
+
+3
+['.ryyrry' '.rryry.' '..yrr..' '..y....' '.......' '.......']
+False
+0
+Child 0
+['yryyrry' '.rryry.' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['yryyrry' 'rrryry.' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['yryyrry' '.rryry.' '.ryrr..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['yryyrry' '.rryry.' '..yrr..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['yryyrry' '.rryry.' '..yrr..' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['yryyrry' '.rryry.' '..yrr..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['yryyrry' '.rryry.' '..yrrr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['yryyrry' '.rryryr' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child 1
+['.ryyrry' '.rryry.' '.yyrr..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.yyrr..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.yyrr..' '.ry....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '.yyrr..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.yyrr..' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.yyrr..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.yyrrr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.yyrr..' '..y....' '.......' '.......']
+False
+
+Child 2
+['.ryyrry' '.rryry.' '..yrr..' '..y....' '..y....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..yrr..' '..y....' '..y....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryrr..' '..y....' '..y....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yrr..' '..y....' '..y....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrr..' '..yr...' '..y....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..yrr..' '..y.r..' '..y....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..yrrr.' '..y....' '..y....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yrr..' '..y....' '..y....' '.......']
+False
+
+Child 3
+['.ryyrry' '.rryry.' '..yrr..' '..yy...' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..yrr..' '..yy...' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryrr..' '..yy...' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yrr..' '..yy...' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrr..' '..yy...' '...r...' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..yrr..' '..yyr..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..yrrr.' '..yy...' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yrr..' '..yy...' '.......' '.......']
+False
+
+Child 4
+['.ryyrry' '.rryry.' '..yrr..' '..y.y..' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..yrr..' '..y.y..' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryrr..' '..y.y..' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yrr..' '..y.y..' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrr..' '..yry..' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..yrr..' '..y.y..' '....r..' '.......']
+False
+
+Child of child5
+['.ryyrry' '.rryry.' '..yrrr.' '..y.y..' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yrr..' '..y.y..' '.......' '.......']
+False
+
+Child 5
+['.ryyrry' '.rryry.' '..yrry.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..yrry.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryrry.' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yrry.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrry.' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..yrry.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..yrry.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yrry.' '..y....' '.......' '.......']
+False
+
+Child 6
+['.ryyrry' '.rryryy' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryy' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryy' '.ryrr..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryy' '..yrr..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryy' '..yrr..' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryy' '..yrr..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryy' '..yrrr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryy' '..yrr.r' '..y....' '.......' '.......']
+False
+
+
+4
+['.ryyrry' '.rryry.' '..y.r..' '..y.r..' '.......' '.......']
+True
+1
+
+5
+['.ryyrry' '.rryry.' '..y.rr.' '..y....' '.......' '.......']
+False
+0
+Child 0
+['yryyrry' '.rryry.' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['yryyrry' 'rrryry.' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['yryyrry' '.rryry.' '.ry.rr.' '..y....' '.......' '.......']
+False
+
+Child of child2
+['yryyrry' '.rryry.' '..y.rr.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['yryyrry' '.rryry.' '..yrrr.' '..y....' '.......' '.......']
+False
+
+Child of child4
+['yryyrry' '.rryry.' '..y.rr.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['yryyrry' '.rryry.' '..y.rr.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['yryyrry' '.rryryr' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child 1
+['.ryyrry' '.rryry.' '.yy.rr.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '.yy.rr.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.yy.rr.' '.ry....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '.yy.rr.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '.yyrrr.' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '.yy.rr.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '.yy.rr.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.yy.rr.' '..y....' '.......' '.......']
+False
+
+Child 2
+['.ryyrry' '.rryry.' '..y.rr.' '..y....' '..y....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..y.rr.' '..y....' '..y....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.rr.' '..y....' '..y....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..y.rr.' '..y....' '..y....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrrr.' '..y....' '..y....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..y.rr.' '..y.r..' '..y....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..y.rr.' '..y..r.' '..y....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.rr.' '..y....' '..y....' '.......']
+False
+
+Child 3
+['.ryyrry' '.rryry.' '..yyrr.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..yyrr.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ryyrr.' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..yyrr.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yyrr.' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..yyrr.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..yyrr.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yyrr.' '..y....' '.......' '.......']
+False
+
+Child 4
+['.ryyrry' '.rryry.' '..y.rr.' '..y.y..' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..y.rr.' '..y.y..' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.rr.' '..y.y..' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..y.rr.' '..y.y..' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrrr.' '..y.y..' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..y.rr.' '..y.y..' '....r..' '.......']
+False
+
+Child of child5
+['.ryyrry' '.rryry.' '..y.rr.' '..y.yr.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.rr.' '..y.y..' '.......' '.......']
+False
+
+Child 5
+['.ryyrry' '.rryry.' '..y.rr.' '..y..y.' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryry.' '..y.rr.' '..y..y.' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryry.' '.ry.rr.' '..y..y.' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryry.' '..y.rr.' '..y..y.' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryry.' '..yrrr.' '..y..y.' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryry.' '..y.rr.' '..y.ry.' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryry.' '..y.rr.' '..y..y.' '.....r.' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.rr.' '..y..y.' '.......' '.......']
+False
+
+Child 6
+['.ryyrry' '.rryryy' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryy' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryy' '.ry.rr.' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryy' '..y.rr.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryy' '..yrrr.' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryy' '..y.rr.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryy' '..y.rr.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryy' '..y.rrr' '..y....' '.......' '.......']
+False
+
+
+6
+['.ryyrry' '.rryryr' '..y.r..' '..y....' '.......' '.......']
+False
+0
+Child 0
+['yryyrry' '.rryryr' '..y.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['yryyrry' 'rrryryr' '..y.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['yryyrry' '.rryryr' '.ry.r..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['yryyrry' '.rryryr' '..y.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['yryyrry' '.rryryr' '..yrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['yryyrry' '.rryryr' '..y.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['yryyrry' '.rryryr' '..y.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['yryyrry' '.rryryr' '..y.r.r' '..y....' '.......' '.......']
+False
+
+Child 1
+['.ryyrry' '.rryryr' '.yy.r..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryr' '.yy.r..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryr' '.yy.r..' '.ry....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryr' '.yy.r..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryr' '.yyrr..' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryr' '.yy.r..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryr' '.yy.rr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '.yy.r.r' '..y....' '.......' '.......']
+False
+
+Child 2
+['.ryyrry' '.rryryr' '..y.r..' '..y....' '..y....' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryr' '..y.r..' '..y....' '..y....' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryr' '.ry.r..' '..y....' '..y....' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryr' '..y.r..' '..y....' '..y....' '..r....']
+False
+
+Child of child3
+['.ryyrry' '.rryryr' '..yrr..' '..y....' '..y....' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryr' '..y.r..' '..y.r..' '..y....' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryr' '..y.rr.' '..y....' '..y....' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.r.r' '..y....' '..y....' '.......']
+False
+
+Child 3
+['.ryyrry' '.rryryr' '..yyr..' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryr' '..yyr..' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryr' '.ryyr..' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryr' '..yyr..' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryr' '..yyr..' '..yr...' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryr' '..yyr..' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryr' '..yyrr.' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..yyr.r' '..y....' '.......' '.......']
+False
+
+Child 4
+['.ryyrry' '.rryryr' '..y.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryr' '..y.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryr' '.ry.r..' '..y.y..' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryr' '..y.r..' '..y.y..' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryr' '..yrr..' '..y.y..' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryr' '..y.r..' '..y.y..' '....r..' '.......']
+False
+
+Child of child5
+['.ryyrry' '.rryryr' '..y.rr.' '..y.y..' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.r.r' '..y.y..' '.......' '.......']
+False
+
+Child 5
+['.ryyrry' '.rryryr' '..y.ry.' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryr' '..y.ry.' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryr' '.ry.ry.' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryr' '..y.ry.' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryr' '..yrry.' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryr' '..y.ry.' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryr' '..y.ry.' '..y..r.' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.ryr' '..y....' '.......' '.......']
+False
+
+Child 6
+['.ryyrry' '.rryryr' '..y.r.y' '..y....' '.......' '.......']
+False
+
+Child of child0
+['rryyrry' '.rryryr' '..y.r.y' '..y....' '.......' '.......']
+False
+
+Child of child1
+['.ryyrry' '.rryryr' '.ry.r.y' '..y....' '.......' '.......']
+False
+
+Child of child2
+['.ryyrry' '.rryryr' '..y.r.y' '..y....' '..r....' '.......']
+False
+
+Child of child3
+['.ryyrry' '.rryryr' '..yrr.y' '..y....' '.......' '.......']
+False
+
+Child of child4
+['.ryyrry' '.rryryr' '..y.r.y' '..y.r..' '.......' '.......']
+True
+
+Child of child5
+['.ryyrry' '.rryryr' '..y.rry' '..y....' '.......' '.......']
+False
+
+Child of child6
+['.ryyrry' '.rryryr' '..y.r.y' '..y...r' '.......' '.......']
+False
+
+
+4
+343
